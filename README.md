@@ -49,11 +49,11 @@ pip install -r requirements.txt
 python3 manage.py migrate
 ```
 
-## Автор
-Муминова Мадина (https://github.com/muminova-madina)
-
 Запустить проект:
 
 ```
 python3 manage.py runserver
 ```
+
+## Автор
+Муминова Мадина (https://github.com/muminova-madina)
